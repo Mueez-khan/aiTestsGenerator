@@ -1,0 +1,21 @@
+# Ignore .env files everywhere
+**/.env
+
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Build output
+dist/
+build/
+
+# VSCode settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db

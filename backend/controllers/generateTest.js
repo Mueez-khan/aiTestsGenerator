@@ -2,7 +2,7 @@
 // const ai = new GoogleGenAI({ apiKey: "YOUR_API_KEY" });
 import { GoogleGenAI } from "@google/genai";
 
-const ai = new GoogleGenAI({ apiKey: "AIzaSyA-zclU8ry4SMLO5cSwa5-8JQ7IfhKaR08" });
+const ai = new GoogleGenAI({ apiKey: "Your api key" });
 
 import story from "../models/GenerateCodeSchema.js";
 
